@@ -3,6 +3,7 @@ Hi! I'm Robinson,
 - 👨🏽‍💻Full Stack Developer
 - 💡DevOps CE
 - ⚡Power Platform Developer
+- ⚡Microsoft Power Platform Functional Consultant
 - 👾 Gamer
 
 ## Roadmap Skills (Full Stack Developer / DevOps CE) 💻
